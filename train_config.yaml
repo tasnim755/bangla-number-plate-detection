@@ -1,0 +1,6 @@
+path: /mnt/d/Coding/opencv-projects/real-time-bengali-number-plate-detection/dataset/v2/train/
+train: images/train
+val: images/train
+
+names:
+  0: NP
